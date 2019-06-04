@@ -1,0 +1,18 @@
+enabled: true
+production-mode: true
+grid-size: grid-xl
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+custom_logo_mobile:
+  user/themes/quark/images/logo/brown-husky-4k-hdr-pets-winter.jpg:
+    name: brown-husky-4k-hdr-pets-winter.jpg
+    type: image/jpeg
+    size: 2502001
+    path: user/themes/quark/images/logo/brown-husky-4k-hdr-pets-winter.jpg
